@@ -1,0 +1,15 @@
+.primary{
+    background: #5eb875;
+}
+.button{
+    display: inline-block;
+    color:#fff;
+    padding: 0.2rem 0.5rem;
+    border-radius: 0.2rem;
+    font-size: 0.8rem;
+    cursor: pointer;
+}
+.button:hover{
+    opacity: 0.9;
+    box-shadow: 0 0 0.8rem #eee;
+}
