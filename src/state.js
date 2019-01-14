@@ -1,4 +1,10 @@
-import React ,{Component} from 'react';
+/********************
+ * @file:state
+ * @desc: 组件的状态控制
+ * @author:leinov
+ ********************/
+
+ import React ,{Component} from 'react';
 
 export default class State extends Component{
     constructor(props){
@@ -23,4 +29,3 @@ export default class State extends Component{
 State.defaultProps = {
     initValue:0
 }
-console.log(State.state);

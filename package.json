@@ -33,10 +33,11 @@
     "url-loader": "^1.1.1",
     "webpack": "^4.20.2",
     "webpack-cli": "^3.1.2",
-    "webpack-dev-server": "^3.1.9"
+    "webpack-dev-server": "^3.1.14"
   },
   "dependencies": {
     "bulma": "^0.7.1",
+    "create-react-class": "^15.6.3",
     "express": "^4.16.3",
     "opn": "^5.4.0",
     "react": "^16.5.2",

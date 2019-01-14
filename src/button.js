@@ -1,3 +1,9 @@
+/********************************
+ * @file: button.js
+ * @desc: propTypes可以为组件props设置传入条件
+ * @author: leinov
+ *******************************/
+
 import React ,{Component} from 'react';
 import propTypes from 'prop-types';
 import "./index.scss";
