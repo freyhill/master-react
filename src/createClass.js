@@ -1,9 +1,8 @@
-/*
- * @Author: leinov 
- * @Date: 2019-01-07 15:33:05 
- * @Last Modified by: leinov
- * @Last Modified time: 2019-01-07 15:40:31
- */
+/********************************
+ * @file: createClass.js
+ * @desc: createClass的方式创建组件
+ * @author: leinov
+ *******************************/
 
 /*
  * 1.使用 createClass的方式创建一个组件  多用于es5

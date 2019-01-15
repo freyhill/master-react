@@ -1,9 +1,8 @@
-/*
- * @author: leinov 
- * @Date: 2019-01-07 15:42:48 
- * @Last Modified by: mikey.zhaopeng
- * @Last Modified time: 2019-01-11 10:31:25
- */
+/********************
+ * @file:key
+ * @desc: 数组动态渲染必须要设置key来区分每一项
+ * @author:leinov
+ ********************/
 
 import React, { Component } from 'react';
 export default class Key extends Component {

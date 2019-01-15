@@ -1,11 +1,8 @@
-/*
- * @Author: leinov 
- * @Date: 2019-01-07 14:49:09 
- * @Last Modified by: mikey.zhaopeng
- * @Last Modified time: 2019-01-11 10:27:42
- * @desc : jsx
- */
-
+/********************
+ * @file:jsx
+ * @author: 创建jsx方式的方式
+ * @date: 2018-10-08
+ ********************/
 import React, { Component } from "react";
 const element = <h1> hello world</h1>;
 var elment2 = React.createElement(
